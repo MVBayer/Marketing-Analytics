@@ -1,0 +1,1148 @@
+customer_id,touchpoint,timestamp,channel_cost,channel_type,is_conversion,purchase_value
+152,Google Search,2023-01-01 01:00:00,2.86,paid,False,0.0
+190,Google Search,2023-01-01 04:00:00,2.77,paid,False,0.0
+44,Facebook Ad,2023-01-01 07:00:00,3.03,paid,False,0.0
+156,Instagram Ad,2023-01-01 16:00:00,5.05,paid,False,0.0
+44,Facebook Ad,2023-01-01 17:00:00,4.7,paid,False,0.0
+156,Product Review,2023-01-02 02:00:00,0.0,organic,False,0.0
+182,Instagram Ad,2023-01-02 05:00:00,3.9,paid,False,0.0
+48,Instagram Ad,2023-01-02 05:00:00,3.29,paid,False,0.0
+12,YouTube Ad,2023-01-02 05:00:00,6.13,paid,False,0.0
+149,Facebook Ad,2023-01-02 06:00:00,3.79,paid,False,0.0
+5,YouTube Ad,2023-01-02 07:00:00,5.8,paid,False,0.0
+156,Blog Post View,2023-01-02 09:00:00,0.0,organic,False,0.0
+190,Website Visit,2023-01-02 10:00:00,0.0,organic,False,0.0
+50,YouTube Ad,2023-01-02 11:00:00,5.16,paid,False,0.0
+152,Google Search,2023-01-02 13:00:00,3.99,paid,False,0.0
+75,Google Search,2023-01-02 18:00:00,1.88,paid,False,0.0
+144,Google Search,2023-01-02 20:00:00,2.49,paid,False,0.0
+157,Instagram Ad,2023-01-02 22:00:00,4.56,paid,False,0.0
+116,Google Search,2023-01-03 01:00:00,3.88,paid,False,0.0
+105,Facebook Ad,2023-01-03 01:00:00,3.98,paid,False,0.0
+106,Instagram Ad,2023-01-03 03:00:00,5.85,paid,False,0.0
+144,Website Visit,2023-01-03 03:00:00,0.0,organic,False,0.0
+50,Google Search,2023-01-03 05:00:00,3.9,paid,False,0.0
+144,Product Review,2023-01-03 06:00:00,0.0,organic,False,0.0
+44,Instagram Ad,2023-01-03 07:00:00,2.83,paid,False,0.0
+182,Instagram Ad,2023-01-03 08:00:00,3.46,paid,False,0.0
+49,Facebook Ad,2023-01-03 09:00:00,2.68,paid,False,0.0
+156,Recommend a Friend,2023-01-03 11:00:00,0.0,organic,False,0.0
+157,Product Review,2023-01-03 15:00:00,0.0,organic,False,0.0
+199,Google Search,2023-01-03 16:00:00,1.67,paid,False,0.0
+106,Recommend a Friend,2023-01-03 17:00:00,0.0,organic,False,0.0
+116,Product Review,2023-01-03 18:00:00,0.0,organic,False,0.0
+75,Instagram Ad,2023-01-03 18:00:00,3.34,paid,False,0.0
+197,YouTube Ad,2023-01-03 19:00:00,5.3,paid,False,0.0
+190,Discount Code Email,2023-01-03 21:00:00,0.0,organic,False,0.0
+200,Facebook Ad,2023-01-03 22:00:00,2.26,paid,False,0.0
+12,Blog Post View,2023-01-03 23:00:00,0.0,organic,False,0.0
+149,Website Visit,2023-01-03 23:00:00,0.0,organic,False,0.0
+105,Website Visit,2023-01-04 02:00:00,0.0,organic,False,0.0
+49,YouTube Ad,2023-01-04 03:00:00,5.17,paid,False,0.0
+48,YouTube Ad,2023-01-04 04:00:00,5.75,paid,False,0.0
+5,Email Newsletter,2023-01-04 05:00:00,0.0,organic,False,0.0
+197,YouTube Ad,2023-01-04 06:00:00,6.03,paid,False,0.0
+116,Email Newsletter,2023-01-04 07:00:00,0.0,organic,False,0.0
+152,Google Search,2023-01-04 09:00:00,2.13,paid,False,0.0
+49,YouTube Ad,2023-01-04 09:00:00,4.67,paid,False,0.0
+50,Google Search,2023-01-04 10:00:00,3.25,paid,False,0.0
+149,Product Review,2023-01-04 11:00:00,0.0,organic,False,0.0
+199,Instagram Ad,2023-01-04 14:00:00,3.01,paid,False,0.0
+197,Blog Post View,2023-01-04 15:00:00,0.0,organic,False,0.0
+90,Instagram Ad,2023-01-04 16:00:00,4.88,paid,False,0.0
+200,YouTube Ad,2023-01-04 18:00:00,5.32,paid,False,0.0
+106,Blog Post View,2023-01-04 18:00:00,0.0,organic,False,0.0
+182,Discount Code Email,2023-01-04 19:00:00,0.0,organic,False,0.0
+157,Recommend a Friend,2023-01-04 19:00:00,0.0,organic,False,0.0
+144,Google Search,2023-01-04 20:00:00,3.02,paid,False,0.0
+190,Website Visit,2023-01-05 03:00:00,0.0,organic,False,0.0
+165,Facebook Ad,2023-01-05 07:00:00,3.37,paid,False,0.0
+4,Google Search,2023-01-05 07:00:00,3.57,paid,False,0.0
+106,Google Search,2023-01-05 10:00:00,3.71,paid,False,0.0
+66,YouTube Ad,2023-01-05 10:00:00,5.96,paid,False,0.0
+105,Google Search,2023-01-05 12:00:00,3.79,paid,False,0.0
+190,Instagram Ad,2023-01-05 13:00:00,5.87,paid,False,0.0
+75,Instagram Ad,2023-01-05 15:00:00,3.65,paid,False,0.0
+149,Google Search,2023-01-05 15:00:00,1.89,paid,False,0.0
+49,Blog Post View,2023-01-05 15:00:00,0.0,organic,False,0.0
+48,Product Review,2023-01-05 15:00:00,0.0,organic,False,0.0
+5,Email Newsletter,2023-01-05 16:00:00,0.0,organic,False,0.0
+60,YouTube Ad,2023-01-05 16:00:00,6.71,paid,False,0.0
+4,Product Review,2023-01-05 16:00:00,0.0,organic,False,0.0
+149,Product Review,2023-01-05 18:00:00,0.0,organic,False,0.0
+154,Google Search,2023-01-05 19:00:00,1.61,paid,False,0.0
+49,Website Visit,2023-01-05 19:00:00,0.0,organic,False,0.0
+12,Product Review,2023-01-05 19:00:00,0.0,organic,False,0.0
+98,Google Search,2023-01-05 20:00:00,3.18,paid,False,0.0
+200,Website Visit,2023-01-05 22:00:00,0.0,organic,False,0.0
+199,Discount Code Email,2023-01-05 23:00:00,0.0,organic,False,0.0
+67,Facebook Ad,2023-01-05 23:00:00,2.47,paid,False,0.0
+5,Email Newsletter,2023-01-05 23:00:00,0.0,organic,False,0.0
+55,YouTube Ad,2023-01-06 00:00:00,4.56,paid,False,0.0
+12,Website Visit,2023-01-06 01:00:00,0.0,organic,False,0.0
+23,Google Search,2023-01-06 03:00:00,2.93,paid,False,0.0
+49,Google Search,2023-01-06 03:00:00,2.99,paid,False,0.0
+198,Facebook Ad,2023-01-06 03:00:00,4.71,paid,False,0.0
+66,Email Newsletter,2023-01-06 04:00:00,0.0,organic,False,0.0
+116,Website Visit,2023-01-06 04:00:00,0.0,organic,False,0.0
+116,Website Visit,2023-01-06 05:00:00,0.0,organic,False,0.0
+152,Facebook Ad,2023-01-06 06:00:00,4.62,paid,False,0.0
+98,Recommend a Friend,2023-01-06 10:00:00,0.0,organic,False,0.0
+197,Google Search,2023-01-06 10:00:00,2.35,paid,False,0.0
+199,Facebook Ad,2023-01-06 11:00:00,2.41,paid,False,0.0
+90,Recommend a Friend,2023-01-06 11:00:00,0.0,organic,False,0.0
+66,Email Newsletter,2023-01-06 12:00:00,0.0,organic,False,0.0
+153,Google Search,2023-01-06 13:00:00,2.16,paid,False,0.0
+165,Product Review,2023-01-06 13:00:00,0.0,organic,False,0.0
+198,Website Visit,2023-01-06 13:00:00,0.0,organic,False,0.0
+143,YouTube Ad,2023-01-06 14:00:00,6.32,paid,False,0.0
+34,YouTube Ad,2023-01-06 15:00:00,4.66,paid,False,0.0
+65,Facebook Ad,2023-01-06 17:00:00,3.42,paid,False,0.0
+198,Instagram Ad,2023-01-06 17:00:00,2.62,paid,False,0.0
+93,YouTube Ad,2023-01-06 19:00:00,4.95,paid,False,0.0
+67,Email Newsletter,2023-01-06 22:00:00,0.0,organic,False,0.0
+75,Discount Code Email,2023-01-06 23:00:00,0.0,organic,False,0.0
+190,Instagram Ad,2023-01-07 00:00:00,5.28,paid,False,0.0
+93,Blog Post View,2023-01-07 00:00:00,0.0,organic,False,0.0
+23,Email Newsletter,2023-01-07 00:00:00,0.0,organic,False,0.0
+122,YouTube Ad,2023-01-07 03:00:00,3.03,paid,False,0.0
+105,Blog Post View,2023-01-07 03:00:00,0.0,organic,False,0.0
+153,Website Visit,2023-01-07 04:00:00,0.0,organic,False,0.0
+12,Recommend a Friend,2023-01-07 04:00:00,0.0,organic,False,0.0
+12,Facebook Ad,2023-01-07 07:00:00,4.66,paid,False,0.0
+200,Blog Post View,2023-01-07 07:00:00,0.0,organic,False,0.0
+67,Product Review,2023-01-07 07:00:00,0.0,organic,False,0.0
+98,Facebook Ad,2023-01-07 08:00:00,4.22,paid,False,0.0
+122,Google Search,2023-01-07 08:00:00,3.3,paid,False,0.0
+184,YouTube Ad,2023-01-07 08:00:00,3.42,paid,False,0.0
+154,Website Visit,2023-01-07 10:00:00,0.0,organic,False,0.0
+140,YouTube Ad,2023-01-07 10:00:00,3.53,paid,False,0.0
+60,Recommend a Friend,2023-01-07 12:00:00,0.0,organic,False,0.0
+84,Facebook Ad,2023-01-07 13:00:00,3.67,paid,False,0.0
+5,Recommend a Friend,2023-01-07 13:00:00,0.0,organic,False,0.0
+90,Google Search,2023-01-07 14:00:00,3.96,paid,False,0.0
+4,Facebook Ad,2023-01-07 15:00:00,2.55,paid,False,0.0
+199,Discount Code Email,2023-01-07 15:00:00,0.0,organic,False,0.0
+23,Instagram Ad,2023-01-07 16:00:00,5.98,paid,False,0.0
+193,Instagram Ad,2023-01-07 16:00:00,5.67,paid,False,0.0
+75,Discount Code Email,2023-01-07 16:00:00,0.0,organic,False,0.0
+190,Recommend a Friend,2023-01-07 16:00:00,0.0,organic,False,0.0
+5,Purchase,2023-01-07 17:00:00,0.0,,True,260.8874510741207
+197,Google Search,2023-01-07 17:00:00,2.4,paid,False,0.0
+111,YouTube Ad,2023-01-07 17:00:00,4.27,paid,False,0.0
+43,Google Search,2023-01-07 17:00:00,1.99,paid,False,0.0
+113,Facebook Ad,2023-01-07 17:00:00,3.53,paid,False,0.0
+154,Discount Code Email,2023-01-07 18:00:00,0.0,organic,False,0.0
+66,Product Review,2023-01-07 18:00:00,0.0,organic,False,0.0
+55,Product Review,2023-01-07 19:00:00,0.0,organic,False,0.0
+146,Google Search,2023-01-07 20:00:00,2.23,paid,False,0.0
+172,Google Search,2023-01-07 22:00:00,2.11,paid,False,0.0
+21,Facebook Ad,2023-01-07 23:00:00,3.27,paid,False,0.0
+34,Product Review,2023-01-08 03:00:00,0.0,organic,False,0.0
+192,Google Search,2023-01-08 04:00:00,2.18,paid,False,0.0
+143,Email Newsletter,2023-01-08 05:00:00,0.0,organic,False,0.0
+184,Email Newsletter,2023-01-08 06:00:00,0.0,organic,False,0.0
+165,Instagram Ad,2023-01-08 06:00:00,5.98,paid,False,0.0
+190,Purchase,2023-01-08 06:00:00,0.0,,True,233.37894271471438
+43,Product Review,2023-01-08 06:00:00,0.0,organic,False,0.0
+47,YouTube Ad,2023-01-08 07:00:00,4.75,paid,False,0.0
+21,Website Visit,2023-01-08 07:00:00,0.0,organic,False,0.0
+154,Product Review,2023-01-08 09:00:00,0.0,organic,False,0.0
+200,Product Review,2023-01-08 10:00:00,0.0,organic,False,0.0
+93,Recommend a Friend,2023-01-08 12:00:00,0.0,organic,False,0.0
+198,Product Review,2023-01-08 13:00:00,0.0,organic,False,0.0
+60,Product Review,2023-01-08 13:00:00,0.0,organic,False,0.0
+65,Recommend a Friend,2023-01-08 14:00:00,0.0,organic,False,0.0
+23,Blog Post View,2023-01-08 15:00:00,0.0,organic,False,0.0
+165,Facebook Ad,2023-01-08 16:00:00,2.24,paid,False,0.0
+98,Instagram Ad,2023-01-08 16:00:00,5.29,paid,False,0.0
+67,Website Visit,2023-01-08 16:00:00,0.0,organic,False,0.0
+172,Email Newsletter,2023-01-08 17:00:00,0.0,organic,False,0.0
+154,YouTube Ad,2023-01-08 18:00:00,5.41,paid,False,0.0
+197,Instagram Ad,2023-01-08 18:00:00,4.01,paid,False,0.0
+145,YouTube Ad,2023-01-08 19:00:00,5.29,paid,False,0.0
+155,Google Search,2023-01-08 19:00:00,3.88,paid,False,0.0
+200,YouTube Ad,2023-01-08 20:00:00,3.17,paid,False,0.0
+122,YouTube Ad,2023-01-08 21:00:00,4.42,paid,False,0.0
+153,Recommend a Friend,2023-01-08 23:00:00,0.0,organic,False,0.0
+199,Product Review,2023-01-09 00:00:00,0.0,organic,False,0.0
+63,Instagram Ad,2023-01-09 00:00:00,4.95,paid,False,0.0
+84,Google Search,2023-01-09 00:00:00,1.58,paid,False,0.0
+140,Recommend a Friend,2023-01-09 01:00:00,0.0,organic,False,0.0
+47,Email Newsletter,2023-01-09 01:00:00,0.0,organic,False,0.0
+12,Facebook Ad,2023-01-09 01:00:00,2.47,paid,False,0.0
+60,Discount Code Email,2023-01-09 02:00:00,0.0,organic,False,0.0
+63,Email Newsletter,2023-01-09 03:00:00,0.0,organic,False,0.0
+90,Recommend a Friend,2023-01-09 04:00:00,0.0,organic,False,0.0
+93,Recommend a Friend,2023-01-09 04:00:00,0.0,organic,False,0.0
+110,Instagram Ad,2023-01-09 04:00:00,2.77,paid,False,0.0
+69,Facebook Ad,2023-01-09 06:00:00,4.88,paid,False,0.0
+127,YouTube Ad,2023-01-09 06:00:00,6.43,paid,False,0.0
+184,Recommend a Friend,2023-01-09 06:00:00,0.0,organic,False,0.0
+200,Product Review,2023-01-09 07:00:00,0.0,organic,False,0.0
+75,Facebook Ad,2023-01-09 07:00:00,2.36,paid,False,0.0
+146,Website Visit,2023-01-09 08:00:00,0.0,organic,False,0.0
+193,Email Newsletter,2023-01-09 09:00:00,0.0,organic,False,0.0
+78,Instagram Ad,2023-01-09 09:00:00,5.99,paid,False,0.0
+34,Blog Post View,2023-01-09 09:00:00,0.0,organic,False,0.0
+122,YouTube Ad,2023-01-09 09:00:00,6.87,paid,False,0.0
+84,Recommend a Friend,2023-01-09 09:00:00,0.0,organic,False,0.0
+77,Facebook Ad,2023-01-09 09:00:00,2.89,paid,False,0.0
+21,Recommend a Friend,2023-01-09 11:00:00,0.0,organic,False,0.0
+43,Google Search,2023-01-09 13:00:00,2.52,paid,False,0.0
+184,Recommend a Friend,2023-01-09 13:00:00,0.0,organic,False,0.0
+63,Website Visit,2023-01-09 14:00:00,0.0,organic,False,0.0
+155,Discount Code Email,2023-01-09 15:00:00,0.0,organic,False,0.0
+143,Blog Post View,2023-01-09 16:00:00,0.0,organic,False,0.0
+197,Purchase,2023-01-09 16:00:00,0.0,,True,245.37962061552503
+172,Website Visit,2023-01-09 16:00:00,0.0,organic,False,0.0
+34,YouTube Ad,2023-01-09 16:00:00,5.55,paid,False,0.0
+113,Facebook Ad,2023-01-09 16:00:00,3.0,paid,False,0.0
+55,Recommend a Friend,2023-01-09 16:00:00,0.0,organic,False,0.0
+111,Discount Code Email,2023-01-09 16:00:00,0.0,organic,False,0.0
+198,Blog Post View,2023-01-09 16:00:00,0.0,organic,False,0.0
+66,Discount Code Email,2023-01-09 17:00:00,0.0,organic,False,0.0
+65,Email Newsletter,2023-01-09 17:00:00,0.0,organic,False,0.0
+90,Recommend a Friend,2023-01-09 17:00:00,0.0,organic,False,0.0
+200,Purchase,2023-01-09 18:00:00,0.0,,True,128.99838467964722
+124,Instagram Ad,2023-01-09 18:00:00,5.34,paid,False,0.0
+184,Product Review,2023-01-09 19:00:00,0.0,organic,False,0.0
+131,Facebook Ad,2023-01-09 20:00:00,4.96,paid,False,0.0
+38,Facebook Ad,2023-01-09 21:00:00,3.07,paid,False,0.0
+47,Instagram Ad,2023-01-09 22:00:00,5.28,paid,False,0.0
+192,Facebook Ad,2023-01-10 00:00:00,3.23,paid,False,0.0
+146,Website Visit,2023-01-10 01:00:00,0.0,organic,False,0.0
+21,Email Newsletter,2023-01-10 01:00:00,0.0,organic,False,0.0
+196,Google Search,2023-01-10 02:00:00,2.23,paid,False,0.0
+110,YouTube Ad,2023-01-10 03:00:00,6.03,paid,False,0.0
+67,YouTube Ad,2023-01-10 03:00:00,4.7,paid,False,0.0
+47,Google Search,2023-01-10 03:00:00,1.9,paid,False,0.0
+196,Email Newsletter,2023-01-10 04:00:00,0.0,organic,False,0.0
+140,Website Visit,2023-01-10 04:00:00,0.0,organic,False,0.0
+104,YouTube Ad,2023-01-10 04:00:00,3.38,paid,False,0.0
+78,Facebook Ad,2023-01-10 05:00:00,3.66,paid,False,0.0
+138,Facebook Ad,2023-01-10 05:00:00,2.86,paid,False,0.0
+35,Facebook Ad,2023-01-10 07:00:00,4.02,paid,False,0.0
+172,Email Newsletter,2023-01-10 07:00:00,0.0,organic,False,0.0
+90,Instagram Ad,2023-01-10 07:00:00,4.92,paid,False,0.0
+122,Email Newsletter,2023-01-10 10:00:00,0.0,organic,False,0.0
+75,Product Review,2023-01-10 11:00:00,0.0,organic,False,0.0
+127,YouTube Ad,2023-01-10 11:00:00,5.49,paid,False,0.0
+165,Discount Code Email,2023-01-10 12:00:00,0.0,organic,False,0.0
+146,Purchase,2023-01-10 12:00:00,0.0,,True,180.85590543135115
+143,Email Newsletter,2023-01-10 12:00:00,0.0,organic,False,0.0
+21,Facebook Ad,2023-01-10 12:00:00,4.19,paid,False,0.0
+66,Email Newsletter,2023-01-10 13:00:00,0.0,organic,False,0.0
+43,YouTube Ad,2023-01-10 13:00:00,5.36,paid,False,0.0
+145,Email Newsletter,2023-01-10 14:00:00,0.0,organic,False,0.0
+122,Google Search,2023-01-10 14:00:00,1.94,paid,False,0.0
+55,Blog Post View,2023-01-10 15:00:00,0.0,organic,False,0.0
+114,YouTube Ad,2023-01-10 16:00:00,6.95,paid,False,0.0
+63,Discount Code Email,2023-01-10 16:00:00,0.0,organic,False,0.0
+199,Blog Post View,2023-01-10 16:00:00,0.0,organic,False,0.0
+115,Facebook Ad,2023-01-10 16:00:00,3.63,paid,False,0.0
+63,Blog Post View,2023-01-10 17:00:00,0.0,organic,False,0.0
+174,Google Search,2023-01-10 18:00:00,2.24,paid,False,0.0
+198,Instagram Ad,2023-01-10 19:00:00,4.66,paid,False,0.0
+193,Blog Post View,2023-01-10 19:00:00,0.0,organic,False,0.0
+47,Blog Post View,2023-01-10 20:00:00,0.0,organic,False,0.0
+184,Discount Code Email,2023-01-10 22:00:00,0.0,organic,False,0.0
+113,Facebook Ad,2023-01-10 23:00:00,4.42,paid,False,0.0
+193,Website Visit,2023-01-10 23:00:00,0.0,organic,False,0.0
+140,Facebook Ad,2023-01-11 01:00:00,2.74,paid,False,0.0
+113,Facebook Ad,2023-01-11 02:00:00,2.71,paid,False,0.0
+196,Google Search,2023-01-11 02:00:00,1.7,paid,False,0.0
+192,Google Search,2023-01-11 03:00:00,2.51,paid,False,0.0
+145,Product Review,2023-01-11 04:00:00,0.0,organic,False,0.0
+129,Instagram Ad,2023-01-11 05:00:00,2.51,paid,False,0.0
+69,Website Visit,2023-01-11 05:00:00,0.0,organic,False,0.0
+77,Discount Code Email,2023-01-11 06:00:00,0.0,organic,False,0.0
+67,Email Newsletter,2023-01-11 06:00:00,0.0,organic,False,0.0
+84,Website Visit,2023-01-11 06:00:00,0.0,organic,False,0.0
+129,Website Visit,2023-01-11 07:00:00,0.0,organic,False,0.0
+127,Recommend a Friend,2023-01-11 07:00:00,0.0,organic,False,0.0
+125,Google Search,2023-01-11 07:00:00,2.27,paid,False,0.0
+80,Facebook Ad,2023-01-11 07:00:00,3.35,paid,False,0.0
+111,Recommend a Friend,2023-01-11 07:00:00,0.0,organic,False,0.0
+65,Google Search,2023-01-11 07:00:00,3.85,paid,False,0.0
+69,Product Review,2023-01-11 08:00:00,0.0,organic,False,0.0
+172,Recommend a Friend,2023-01-11 08:00:00,0.0,organic,False,0.0
+138,Email Newsletter,2023-01-11 08:00:00,0.0,organic,False,0.0
+199,Purchase,2023-01-11 09:00:00,0.0,,True,106.79625967672979
+131,Recommend a Friend,2023-01-11 09:00:00,0.0,organic,False,0.0
+35,YouTube Ad,2023-01-11 09:00:00,5.18,paid,False,0.0
+80,YouTube Ad,2023-01-11 09:00:00,6.12,paid,False,0.0
+155,Product Review,2023-01-11 09:00:00,0.0,organic,False,0.0
+186,Facebook Ad,2023-01-11 10:00:00,4.6,paid,False,0.0
+78,Website Visit,2023-01-11 10:00:00,0.0,organic,False,0.0
+38,Facebook Ad,2023-01-11 10:00:00,4.87,paid,False,0.0
+78,Product Review,2023-01-11 12:00:00,0.0,organic,False,0.0
+34,Product Review,2023-01-11 13:00:00,0.0,organic,False,0.0
+198,Google Search,2023-01-11 13:00:00,2.17,paid,False,0.0
+124,Discount Code Email,2023-01-11 13:00:00,0.0,organic,False,0.0
+104,Instagram Ad,2023-01-11 14:00:00,4.92,paid,False,0.0
+124,Product Review,2023-01-11 14:00:00,0.0,organic,False,0.0
+110,Recommend a Friend,2023-01-11 16:00:00,0.0,organic,False,0.0
+138,Google Search,2023-01-11 17:00:00,1.96,paid,False,0.0
+174,Google Search,2023-01-11 18:00:00,3.22,paid,False,0.0
+31,Instagram Ad,2023-01-11 18:00:00,2.85,paid,False,0.0
+84,Discount Code Email,2023-01-11 19:00:00,0.0,organic,False,0.0
+124,Recommend a Friend,2023-01-11 19:00:00,0.0,organic,False,0.0
+143,Instagram Ad,2023-01-11 19:00:00,4.49,paid,False,0.0
+140,Recommend a Friend,2023-01-11 19:00:00,0.0,organic,False,0.0
+73,Facebook Ad,2023-01-11 21:00:00,3.44,paid,False,0.0
+196,Blog Post View,2023-01-11 21:00:00,0.0,organic,False,0.0
+165,Blog Post View,2023-01-11 21:00:00,0.0,organic,False,0.0
+113,Recommend a Friend,2023-01-11 22:00:00,0.0,organic,False,0.0
+73,Discount Code Email,2023-01-11 22:00:00,0.0,organic,False,0.0
+138,Purchase,2023-01-11 23:00:00,0.0,,True,238.49530085734744
+31,Facebook Ad,2023-01-11 23:00:00,3.03,paid,False,0.0
+115,Website Visit,2023-01-11 23:00:00,0.0,organic,False,0.0
+125,Blog Post View,2023-01-11 23:00:00,0.0,organic,False,0.0
+55,Recommend a Friend,2023-01-12 01:00:00,0.0,organic,False,0.0
+114,Instagram Ad,2023-01-12 01:00:00,3.14,paid,False,0.0
+69,Website Visit,2023-01-12 01:00:00,0.0,organic,False,0.0
+129,Product Review,2023-01-12 02:00:00,0.0,organic,False,0.0
+84,Product Review,2023-01-12 02:00:00,0.0,organic,False,0.0
+132,Facebook Ad,2023-01-12 02:00:00,3.41,paid,False,0.0
+91,Google Search,2023-01-12 03:00:00,3.47,paid,False,0.0
+69,Facebook Ad,2023-01-12 05:00:00,4.75,paid,False,0.0
+161,Instagram Ad,2023-01-12 05:00:00,4.08,paid,False,0.0
+73,Website Visit,2023-01-12 05:00:00,0.0,organic,False,0.0
+113,Email Newsletter,2023-01-12 06:00:00,0.0,organic,False,0.0
+21,Blog Post View,2023-01-12 07:00:00,0.0,organic,False,0.0
+38,YouTube Ad,2023-01-12 07:00:00,4.29,paid,False,0.0
+28,Google Search,2023-01-12 08:00:00,1.61,paid,False,0.0
+78,Recommend a Friend,2023-01-12 08:00:00,0.0,organic,False,0.0
+28,Google Search,2023-01-12 09:00:00,3.98,paid,False,0.0
+196,Purchase,2023-01-12 10:00:00,0.0,,True,318.48121434514934
+132,Recommend a Friend,2023-01-12 10:00:00,0.0,organic,False,0.0
+65,Recommend a Friend,2023-01-12 10:00:00,0.0,organic,False,0.0
+28,YouTube Ad,2023-01-12 11:00:00,3.33,paid,False,0.0
+55,Purchase,2023-01-12 12:00:00,0.0,,True,279.66012324285475
+115,Discount Code Email,2023-01-12 12:00:00,0.0,organic,False,0.0
+58,Instagram Ad,2023-01-12 13:00:00,4.23,paid,False,0.0
+103,Google Search,2023-01-12 13:00:00,2.48,paid,False,0.0
+67,Product Review,2023-01-12 13:00:00,0.0,organic,False,0.0
+91,Email Newsletter,2023-01-12 13:00:00,0.0,organic,False,0.0
+145,Blog Post View,2023-01-12 13:00:00,0.0,organic,False,0.0
+143,Facebook Ad,2023-01-12 14:00:00,3.98,paid,False,0.0
+181,YouTube Ad,2023-01-12 14:00:00,6.04,paid,False,0.0
+184,Product Review,2023-01-12 14:00:00,0.0,organic,False,0.0
+72,Google Search,2023-01-12 16:00:00,2.72,paid,False,0.0
+35,Recommend a Friend,2023-01-12 17:00:00,0.0,organic,False,0.0
+155,Google Search,2023-01-12 19:00:00,3.24,paid,False,0.0
+114,Discount Code Email,2023-01-12 19:00:00,0.0,organic,False,0.0
+177,Instagram Ad,2023-01-12 20:00:00,5.08,paid,False,0.0
+186,Website Visit,2023-01-12 20:00:00,0.0,organic,False,0.0
+120,YouTube Ad,2023-01-12 20:00:00,5.1,paid,False,0.0
+111,Blog Post View,2023-01-12 21:00:00,0.0,organic,False,0.0
+67,Purchase,2023-01-12 21:00:00,0.0,,True,163.73416810720735
+192,Email Newsletter,2023-01-12 21:00:00,0.0,organic,False,0.0
+72,Website Visit,2023-01-12 21:00:00,0.0,organic,False,0.0
+114,Blog Post View,2023-01-12 21:00:00,0.0,organic,False,0.0
+34,Blog Post View,2023-01-12 22:00:00,0.0,organic,False,0.0
+99,Google Search,2023-01-12 22:00:00,1.7,paid,False,0.0
+127,Blog Post View,2023-01-12 23:00:00,0.0,organic,False,0.0
+177,Instagram Ad,2023-01-13 00:00:00,2.59,paid,False,0.0
+114,Google Search,2023-01-13 01:00:00,3.3,paid,False,0.0
+172,Website Visit,2023-01-13 01:00:00,0.0,organic,False,0.0
+145,Instagram Ad,2023-01-13 02:00:00,2.61,paid,False,0.0
+78,Purchase,2023-01-13 02:00:00,0.0,,True,200.5641091888666
+121,Facebook Ad,2023-01-13 02:00:00,4.9,paid,False,0.0
+104,Google Search,2023-01-13 03:00:00,1.63,paid,False,0.0
+174,Instagram Ad,2023-01-13 03:00:00,5.04,paid,False,0.0
+58,Google Search,2023-01-13 04:00:00,2.93,paid,False,0.0
+38,Facebook Ad,2023-01-13 04:00:00,2.31,paid,False,0.0
+77,Blog Post View,2023-01-13 05:00:00,0.0,organic,False,0.0
+16,Facebook Ad,2023-01-13 06:00:00,2.15,paid,False,0.0
+104,YouTube Ad,2023-01-13 06:00:00,5.03,paid,False,0.0
+131,Instagram Ad,2023-01-13 06:00:00,4.65,paid,False,0.0
+124,YouTube Ad,2023-01-13 07:00:00,4.34,paid,False,0.0
+54,Google Search,2023-01-13 07:00:00,1.63,paid,False,0.0
+80,Email Newsletter,2023-01-13 08:00:00,0.0,organic,False,0.0
+91,Instagram Ad,2023-01-13 08:00:00,5.42,paid,False,0.0
+175,Google Search,2023-01-13 09:00:00,2.24,paid,False,0.0
+145,YouTube Ad,2023-01-13 10:00:00,6.43,paid,False,0.0
+73,Email Newsletter,2023-01-13 10:00:00,0.0,organic,False,0.0
+69,Facebook Ad,2023-01-13 11:00:00,2.57,paid,False,0.0
+186,Discount Code Email,2023-01-13 11:00:00,0.0,organic,False,0.0
+113,Instagram Ad,2023-01-13 11:00:00,3.56,paid,False,0.0
+110,Google Search,2023-01-13 11:00:00,2.88,paid,False,0.0
+124,Product Review,2023-01-13 12:00:00,0.0,organic,False,0.0
+113,Purchase,2023-01-13 12:00:00,0.0,,True,75.17312661631566
+91,Recommend a Friend,2023-01-13 12:00:00,0.0,organic,False,0.0
+161,Website Visit,2023-01-13 12:00:00,0.0,organic,False,0.0
+124,Website Visit,2023-01-13 14:00:00,0.0,organic,False,0.0
+16,Recommend a Friend,2023-01-13 15:00:00,0.0,organic,False,0.0
+22,YouTube Ad,2023-01-13 15:00:00,6.15,paid,False,0.0
+31,Blog Post View,2023-01-13 15:00:00,0.0,organic,False,0.0
+103,Instagram Ad,2023-01-13 16:00:00,5.29,paid,False,0.0
+125,Instagram Ad,2023-01-13 16:00:00,5.81,paid,False,0.0
+57,Instagram Ad,2023-01-13 16:00:00,5.99,paid,False,0.0
+54,Instagram Ad,2023-01-13 16:00:00,5.21,paid,False,0.0
+181,Discount Code Email,2023-01-13 17:00:00,0.0,organic,False,0.0
+129,Discount Code Email,2023-01-13 17:00:00,0.0,organic,False,0.0
+110,Google Search,2023-01-13 17:00:00,2.73,paid,False,0.0
+35,Google Search,2023-01-13 20:00:00,3.98,paid,False,0.0
+145,Website Visit,2023-01-13 22:00:00,0.0,organic,False,0.0
+132,Google Search,2023-01-13 23:00:00,2.39,paid,False,0.0
+172,YouTube Ad,2023-01-13 23:00:00,4.3,paid,False,0.0
+177,Google Search,2023-01-13 23:00:00,1.82,paid,False,0.0
+129,Google Search,2023-01-13 23:00:00,2.81,paid,False,0.0
+131,Instagram Ad,2023-01-13 23:00:00,3.73,paid,False,0.0
+28,Instagram Ad,2023-01-14 00:00:00,2.68,paid,False,0.0
+143,Website Visit,2023-01-14 01:00:00,0.0,organic,False,0.0
+192,Product Review,2023-01-14 01:00:00,0.0,organic,False,0.0
+172,Purchase,2023-01-14 02:00:00,0.0,,True,164.78518543163116
+104,Instagram Ad,2023-01-14 02:00:00,5.69,paid,False,0.0
+177,Recommend a Friend,2023-01-14 02:00:00,0.0,organic,False,0.0
+58,Google Search,2023-01-14 02:00:00,2.02,paid,False,0.0
+175,Product Review,2023-01-14 03:00:00,0.0,organic,False,0.0
+80,Blog Post View,2023-01-14 04:00:00,0.0,organic,False,0.0
+77,Facebook Ad,2023-01-14 05:00:00,3.09,paid,False,0.0
+192,Instagram Ad,2023-01-14 05:00:00,4.49,paid,False,0.0
+110,Purchase,2023-01-14 06:00:00,0.0,,True,188.74544667439304
+16,Product Review,2023-01-14 06:00:00,0.0,organic,False,0.0
+115,YouTube Ad,2023-01-14 07:00:00,5.03,paid,False,0.0
+175,Recommend a Friend,2023-01-14 08:00:00,0.0,organic,False,0.0
+120,Instagram Ad,2023-01-14 08:00:00,5.58,paid,False,0.0
+115,Blog Post View,2023-01-14 08:00:00,0.0,organic,False,0.0
+22,Website Visit,2023-01-14 08:00:00,0.0,organic,False,0.0
+186,Purchase,2023-01-14 08:00:00,0.0,,True,119.00386716455219
+15,YouTube Ad,2023-01-14 09:00:00,5.04,paid,False,0.0
+145,Purchase,2023-01-14 09:00:00,0.0,,True,219.48457083540828
+114,Email Newsletter,2023-01-14 10:00:00,0.0,organic,False,0.0
+72,YouTube Ad,2023-01-14 11:00:00,5.16,paid,False,0.0
+19,YouTube Ad,2023-01-14 12:00:00,5.51,paid,False,0.0
+127,Recommend a Friend,2023-01-14 12:00:00,0.0,organic,False,0.0
+34,Website Visit,2023-01-14 12:00:00,0.0,organic,False,0.0
+38,Discount Code Email,2023-01-14 12:00:00,0.0,organic,False,0.0
+52,Google Search,2023-01-14 14:00:00,2.41,paid,False,0.0
+99,Website Visit,2023-01-14 14:00:00,0.0,organic,False,0.0
+155,Facebook Ad,2023-01-14 15:00:00,4.27,paid,False,0.0
+135,YouTube Ad,2023-01-14 16:00:00,4.97,paid,False,0.0
+104,Facebook Ad,2023-01-14 16:00:00,4.69,paid,False,0.0
+54,Instagram Ad,2023-01-14 17:00:00,5.63,paid,False,0.0
+91,Blog Post View,2023-01-14 17:00:00,0.0,organic,False,0.0
+22,Recommend a Friend,2023-01-14 17:00:00,0.0,organic,False,0.0
+57,Instagram Ad,2023-01-14 18:00:00,5.25,paid,False,0.0
+174,Instagram Ad,2023-01-14 18:00:00,4.06,paid,False,0.0
+114,Website Visit,2023-01-14 18:00:00,0.0,organic,False,0.0
+39,Instagram Ad,2023-01-14 18:00:00,2.77,paid,False,0.0
+31,Website Visit,2023-01-14 19:00:00,0.0,organic,False,0.0
+80,Blog Post View,2023-01-14 19:00:00,0.0,organic,False,0.0
+131,Instagram Ad,2023-01-14 20:00:00,4.54,paid,False,0.0
+161,Blog Post View,2023-01-14 21:00:00,0.0,organic,False,0.0
+132,Facebook Ad,2023-01-14 21:00:00,3.03,paid,False,0.0
+73,Email Newsletter,2023-01-14 22:00:00,0.0,organic,False,0.0
+91,Google Search,2023-01-14 22:00:00,1.71,paid,False,0.0
+121,YouTube Ad,2023-01-15 00:00:00,4.79,paid,False,0.0
+77,Email Newsletter,2023-01-15 00:00:00,0.0,organic,False,0.0
+6,YouTube Ad,2023-01-15 00:00:00,6.84,paid,False,0.0
+103,Recommend a Friend,2023-01-15 01:00:00,0.0,organic,False,0.0
+72,Purchase,2023-01-15 03:00:00,0.0,,True,131.1415892320903
+57,Product Review,2023-01-15 04:00:00,0.0,organic,False,0.0
+85,Facebook Ad,2023-01-15 05:00:00,2.45,paid,False,0.0
+121,Instagram Ad,2023-01-15 05:00:00,3.44,paid,False,0.0
+155,Blog Post View,2023-01-15 06:00:00,0.0,organic,False,0.0
+6,Facebook Ad,2023-01-15 06:00:00,3.26,paid,False,0.0
+181,Facebook Ad,2023-01-15 06:00:00,4.63,paid,False,0.0
+88,Facebook Ad,2023-01-15 07:00:00,2.93,paid,False,0.0
+139,Google Search,2023-01-15 07:00:00,3.78,paid,False,0.0
+2,Facebook Ad,2023-01-15 08:00:00,3.48,paid,False,0.0
+120,Product Review,2023-01-15 08:00:00,0.0,organic,False,0.0
+54,Blog Post View,2023-01-15 09:00:00,0.0,organic,False,0.0
+51,Google Search,2023-01-15 10:00:00,2.31,paid,False,0.0
+175,Blog Post View,2023-01-15 11:00:00,0.0,organic,False,0.0
+161,Discount Code Email,2023-01-15 12:00:00,0.0,organic,False,0.0
+104,Website Visit,2023-01-15 12:00:00,0.0,organic,False,0.0
+99,Blog Post View,2023-01-15 14:00:00,0.0,organic,False,0.0
+39,Email Newsletter,2023-01-15 14:00:00,0.0,organic,False,0.0
+127,Discount Code Email,2023-01-15 15:00:00,0.0,organic,False,0.0
+15,Blog Post View,2023-01-15 16:00:00,0.0,organic,False,0.0
+80,YouTube Ad,2023-01-15 17:00:00,3.86,paid,False,0.0
+28,Website Visit,2023-01-15 17:00:00,0.0,organic,False,0.0
+131,YouTube Ad,2023-01-15 19:00:00,4.28,paid,False,0.0
+132,Blog Post View,2023-01-15 19:00:00,0.0,organic,False,0.0
+91,Instagram Ad,2023-01-15 20:00:00,3.11,paid,False,0.0
+18,YouTube Ad,2023-01-15 21:00:00,3.62,paid,False,0.0
+99,Discount Code Email,2023-01-15 21:00:00,0.0,organic,False,0.0
+121,Email Newsletter,2023-01-15 22:00:00,0.0,organic,False,0.0
+179,Facebook Ad,2023-01-15 22:00:00,2.87,paid,False,0.0
+100,Facebook Ad,2023-01-15 23:00:00,3.65,paid,False,0.0
+135,Email Newsletter,2023-01-15 23:00:00,0.0,organic,False,0.0
+103,Instagram Ad,2023-01-16 00:00:00,4.88,paid,False,0.0
+36,Google Search,2023-01-16 00:00:00,2.71,paid,False,0.0
+57,Purchase,2023-01-16 01:00:00,0.0,,True,110.17817744307436
+16,Instagram Ad,2023-01-16 02:00:00,4.02,paid,False,0.0
+87,Instagram Ad,2023-01-16 03:00:00,2.7,paid,False,0.0
+38,Discount Code Email,2023-01-16 04:00:00,0.0,organic,False,0.0
+120,Google Search,2023-01-16 04:00:00,3.1,paid,False,0.0
+134,Facebook Ad,2023-01-16 05:00:00,4.25,paid,False,0.0
+119,Facebook Ad,2023-01-16 07:00:00,4.69,paid,False,0.0
+155,Product Review,2023-01-16 09:00:00,0.0,organic,False,0.0
+19,Recommend a Friend,2023-01-16 10:00:00,0.0,organic,False,0.0
+119,Product Review,2023-01-16 12:00:00,0.0,organic,False,0.0
+52,Facebook Ad,2023-01-16 13:00:00,2.85,paid,False,0.0
+103,Email Newsletter,2023-01-16 14:00:00,0.0,organic,False,0.0
+88,YouTube Ad,2023-01-16 14:00:00,4.48,paid,False,0.0
+132,YouTube Ad,2023-01-16 14:00:00,4.5,paid,False,0.0
+70,Google Search,2023-01-16 14:00:00,2.65,paid,False,0.0
+1,Google Search,2023-01-16 15:00:00,2.1,paid,False,0.0
+31,Instagram Ad,2023-01-16 16:00:00,4.12,paid,False,0.0
+22,Discount Code Email,2023-01-16 16:00:00,0.0,organic,False,0.0
+73,Product Review,2023-01-16 16:00:00,0.0,organic,False,0.0
+174,Website Visit,2023-01-16 16:00:00,0.0,organic,False,0.0
+16,Email Newsletter,2023-01-16 19:00:00,0.0,organic,False,0.0
+161,Blog Post View,2023-01-16 19:00:00,0.0,organic,False,0.0
+88,Email Newsletter,2023-01-16 20:00:00,0.0,organic,False,0.0
+22,Product Review,2023-01-16 21:00:00,0.0,organic,False,0.0
+77,Google Search,2023-01-16 21:00:00,2.71,paid,False,0.0
+179,YouTube Ad,2023-01-16 21:00:00,5.79,paid,False,0.0
+87,Blog Post View,2023-01-16 21:00:00,0.0,organic,False,0.0
+181,Discount Code Email,2023-01-16 22:00:00,0.0,organic,False,0.0
+39,Facebook Ad,2023-01-16 22:00:00,4.5,paid,False,0.0
+10,Google Search,2023-01-16 22:00:00,3.48,paid,False,0.0
+2,Email Newsletter,2023-01-16 23:00:00,0.0,organic,False,0.0
+100,Instagram Ad,2023-01-17 01:00:00,3.65,paid,False,0.0
+121,Facebook Ad,2023-01-17 01:00:00,2.18,paid,False,0.0
+15,Product Review,2023-01-17 02:00:00,0.0,organic,False,0.0
+36,Google Search,2023-01-17 02:00:00,1.59,paid,False,0.0
+51,Facebook Ad,2023-01-17 02:00:00,4.19,paid,False,0.0
+103,Purchase,2023-01-17 03:00:00,0.0,,True,217.44846613690044
+6,Discount Code Email,2023-01-17 03:00:00,0.0,organic,False,0.0
+139,Instagram Ad,2023-01-17 03:00:00,2.94,paid,False,0.0
+85,Google Search,2023-01-17 04:00:00,2.98,paid,False,0.0
+61,Instagram Ad,2023-01-17 04:00:00,3.63,paid,False,0.0
+1,Email Newsletter,2023-01-17 04:00:00,0.0,organic,False,0.0
+175,Discount Code Email,2023-01-17 04:00:00,0.0,organic,False,0.0
+174,Email Newsletter,2023-01-17 04:00:00,0.0,organic,False,0.0
+135,Website Visit,2023-01-17 05:00:00,0.0,organic,False,0.0
+36,Recommend a Friend,2023-01-17 05:00:00,0.0,organic,False,0.0
+130,YouTube Ad,2023-01-17 06:00:00,4.76,paid,False,0.0
+99,Recommend a Friend,2023-01-17 06:00:00,0.0,organic,False,0.0
+175,Recommend a Friend,2023-01-17 06:00:00,0.0,organic,False,0.0
+87,Product Review,2023-01-17 08:00:00,0.0,organic,False,0.0
+26,Facebook Ad,2023-01-17 08:00:00,2.56,paid,False,0.0
+70,Recommend a Friend,2023-01-17 09:00:00,0.0,organic,False,0.0
+134,Google Search,2023-01-17 09:00:00,2.4,paid,False,0.0
+174,YouTube Ad,2023-01-17 10:00:00,6.72,paid,False,0.0
+61,Facebook Ad,2023-01-17 11:00:00,2.03,paid,False,0.0
+52,Discount Code Email,2023-01-17 12:00:00,0.0,organic,False,0.0
+85,Facebook Ad,2023-01-17 12:00:00,2.65,paid,False,0.0
+22,Product Review,2023-01-17 12:00:00,0.0,organic,False,0.0
+85,Product Review,2023-01-17 13:00:00,0.0,organic,False,0.0
+134,Google Search,2023-01-17 14:00:00,3.72,paid,False,0.0
+99,Product Review,2023-01-17 14:00:00,0.0,organic,False,0.0
+18,Product Review,2023-01-17 14:00:00,0.0,organic,False,0.0
+80,Facebook Ad,2023-01-17 16:00:00,4.43,paid,False,0.0
+175,Blog Post View,2023-01-17 16:00:00,0.0,organic,False,0.0
+10,Email Newsletter,2023-01-17 17:00:00,0.0,organic,False,0.0
+175,Purchase,2023-01-17 19:00:00,0.0,,True,50.0
+22,Website Visit,2023-01-17 20:00:00,0.0,organic,False,0.0
+52,Product Review,2023-01-17 20:00:00,0.0,organic,False,0.0
+19,Facebook Ad,2023-01-17 20:00:00,2.48,paid,False,0.0
+70,Instagram Ad,2023-01-17 20:00:00,4.75,paid,False,0.0
+61,Recommend a Friend,2023-01-17 21:00:00,0.0,organic,False,0.0
+135,Website Visit,2023-01-17 23:00:00,0.0,organic,False,0.0
+119,Email Newsletter,2023-01-17 23:00:00,0.0,organic,False,0.0
+162,Google Search,2023-01-18 00:00:00,3.21,paid,False,0.0
+77,Blog Post View,2023-01-18 01:00:00,0.0,organic,False,0.0
+16,Instagram Ad,2023-01-18 02:00:00,4.39,paid,False,0.0
+1,Blog Post View,2023-01-18 02:00:00,0.0,organic,False,0.0
+87,Email Newsletter,2023-01-18 02:00:00,0.0,organic,False,0.0
+130,Recommend a Friend,2023-01-18 03:00:00,0.0,organic,False,0.0
+73,Recommend a Friend,2023-01-18 03:00:00,0.0,organic,False,0.0
+161,Email Newsletter,2023-01-18 03:00:00,0.0,organic,False,0.0
+2,Recommend a Friend,2023-01-18 03:00:00,0.0,organic,False,0.0
+26,Discount Code Email,2023-01-18 03:00:00,0.0,organic,False,0.0
+119,Recommend a Friend,2023-01-18 04:00:00,0.0,organic,False,0.0
+82,Instagram Ad,2023-01-18 05:00:00,3.98,paid,False,0.0
+179,Discount Code Email,2023-01-18 05:00:00,0.0,organic,False,0.0
+61,YouTube Ad,2023-01-18 05:00:00,6.2,paid,False,0.0
+10,Email Newsletter,2023-01-18 05:00:00,0.0,organic,False,0.0
+100,Google Search,2023-01-18 06:00:00,3.72,paid,False,0.0
+191,Instagram Ad,2023-01-18 08:00:00,5.61,paid,False,0.0
+70,Instagram Ad,2023-01-18 08:00:00,4.87,paid,False,0.0
+88,Product Review,2023-01-18 10:00:00,0.0,organic,False,0.0
+161,Email Newsletter,2023-01-18 10:00:00,0.0,organic,False,0.0
+134,Product Review,2023-01-18 12:00:00,0.0,organic,False,0.0
+22,Purchase,2023-01-18 12:00:00,0.0,,True,103.93985200868285
+15,YouTube Ad,2023-01-18 12:00:00,6.36,paid,False,0.0
+10,Website Visit,2023-01-18 13:00:00,0.0,organic,False,0.0
+1,Instagram Ad,2023-01-18 16:00:00,5.48,paid,False,0.0
+26,Blog Post View,2023-01-18 16:00:00,0.0,organic,False,0.0
+51,Recommend a Friend,2023-01-18 18:00:00,0.0,organic,False,0.0
+18,Google Search,2023-01-18 18:00:00,3.55,paid,False,0.0
+181,Blog Post View,2023-01-18 19:00:00,0.0,organic,False,0.0
+39,Discount Code Email,2023-01-18 19:00:00,0.0,organic,False,0.0
+6,Discount Code Email,2023-01-18 20:00:00,0.0,organic,False,0.0
+10,Email Newsletter,2023-01-18 20:00:00,0.0,organic,False,0.0
+100,Product Review,2023-01-18 21:00:00,0.0,organic,False,0.0
+121,Email Newsletter,2023-01-18 21:00:00,0.0,organic,False,0.0
+179,Discount Code Email,2023-01-18 23:00:00,0.0,organic,False,0.0
+139,YouTube Ad,2023-01-19 01:00:00,5.91,paid,False,0.0
+19,Google Search,2023-01-19 01:00:00,3.84,paid,False,0.0
+180,Facebook Ad,2023-01-19 01:00:00,2.68,paid,False,0.0
+73,Purchase,2023-01-19 02:00:00,0.0,,True,115.97832695241794
+39,Discount Code Email,2023-01-19 06:00:00,0.0,organic,False,0.0
+51,Recommend a Friend,2023-01-19 07:00:00,0.0,organic,False,0.0
+52,Recommend a Friend,2023-01-19 10:00:00,0.0,organic,False,0.0
+85,Facebook Ad,2023-01-19 10:00:00,4.71,paid,False,0.0
+82,Recommend a Friend,2023-01-19 10:00:00,0.0,organic,False,0.0
+99,Product Review,2023-01-19 11:00:00,0.0,organic,False,0.0
+26,Website Visit,2023-01-19 13:00:00,0.0,organic,False,0.0
+52,Purchase,2023-01-19 13:00:00,0.0,,True,161.95432179157666
+1,Blog Post View,2023-01-19 14:00:00,0.0,organic,False,0.0
+88,Website Visit,2023-01-19 14:00:00,0.0,organic,False,0.0
+64,Facebook Ad,2023-01-19 16:00:00,4.83,paid,False,0.0
+51,Purchase,2023-01-19 17:00:00,0.0,,True,61.5256350783834
+68,Google Search,2023-01-19 17:00:00,3.38,paid,False,0.0
+10,Blog Post View,2023-01-19 18:00:00,0.0,organic,False,0.0
+121,Google Search,2023-01-19 19:00:00,1.7,paid,False,0.0
+179,Google Search,2023-01-19 19:00:00,2.36,paid,False,0.0
+16,YouTube Ad,2023-01-19 20:00:00,3.87,paid,False,0.0
+162,Product Review,2023-01-19 20:00:00,0.0,organic,False,0.0
+100,Email Newsletter,2023-01-19 21:00:00,0.0,organic,False,0.0
+64,Instagram Ad,2023-01-19 22:00:00,3.03,paid,False,0.0
+15,YouTube Ad,2023-01-19 23:00:00,6.11,paid,False,0.0
+130,Blog Post View,2023-01-20 00:00:00,0.0,organic,False,0.0
+61,Blog Post View,2023-01-20 01:00:00,0.0,organic,False,0.0
+2,Blog Post View,2023-01-20 02:00:00,0.0,organic,False,0.0
+191,Recommend a Friend,2023-01-20 02:00:00,0.0,organic,False,0.0
+179,Website Visit,2023-01-20 03:00:00,0.0,organic,False,0.0
+185,Facebook Ad,2023-01-20 03:00:00,2.32,paid,False,0.0
+27,Facebook Ad,2023-01-20 06:00:00,2.36,paid,False,0.0
+191,Blog Post View,2023-01-20 06:00:00,0.0,organic,False,0.0
+162,Product Review,2023-01-20 07:00:00,0.0,organic,False,0.0
+70,YouTube Ad,2023-01-20 07:00:00,4.58,paid,False,0.0
+88,Recommend a Friend,2023-01-20 09:00:00,0.0,organic,False,0.0
+2,Recommend a Friend,2023-01-20 09:00:00,0.0,organic,False,0.0
+18,Google Search,2023-01-20 11:00:00,3.05,paid,False,0.0
+10,Facebook Ad,2023-01-20 12:00:00,4.14,paid,False,0.0
+130,Blog Post View,2023-01-20 13:00:00,0.0,organic,False,0.0
+16,Purchase,2023-01-20 13:00:00,0.0,,True,204.26825674716594
+3,YouTube Ad,2023-01-20 13:00:00,3.65,paid,False,0.0
+64,Google Search,2023-01-20 14:00:00,3.55,paid,False,0.0
+86,YouTube Ad,2023-01-20 15:00:00,3.74,paid,False,0.0
+121,Purchase,2023-01-20 16:00:00,0.0,,True,219.8865675372934
+1,Instagram Ad,2023-01-20 16:00:00,4.48,paid,False,0.0
+6,Product Review,2023-01-20 17:00:00,0.0,organic,False,0.0
+82,Google Search,2023-01-20 18:00:00,1.69,paid,False,0.0
+83,Google Search,2023-01-20 18:00:00,3.56,paid,False,0.0
+180,Blog Post View,2023-01-20 18:00:00,0.0,organic,False,0.0
+3,Product Review,2023-01-20 19:00:00,0.0,organic,False,0.0
+64,Product Review,2023-01-20 20:00:00,0.0,organic,False,0.0
+19,YouTube Ad,2023-01-20 22:00:00,4.27,paid,False,0.0
+137,Instagram Ad,2023-01-20 22:00:00,3.81,paid,False,0.0
+26,Instagram Ad,2023-01-20 23:00:00,4.24,paid,False,0.0
+139,Discount Code Email,2023-01-21 00:00:00,0.0,organic,False,0.0
+70,Instagram Ad,2023-01-21 00:00:00,4.36,paid,False,0.0
+18,Email Newsletter,2023-01-21 01:00:00,0.0,organic,False,0.0
+109,Instagram Ad,2023-01-21 04:00:00,3.62,paid,False,0.0
+14,Facebook Ad,2023-01-21 06:00:00,2.78,paid,False,0.0
+10,Purchase,2023-01-21 07:00:00,0.0,,True,283.6381737198175
+33,Google Search,2023-01-21 08:00:00,2.96,paid,False,0.0
+68,Google Search,2023-01-21 08:00:00,3.04,paid,False,0.0
+64,Recommend a Friend,2023-01-21 08:00:00,0.0,organic,False,0.0
+137,Instagram Ad,2023-01-21 09:00:00,5.16,paid,False,0.0
+180,Recommend a Friend,2023-01-21 09:00:00,0.0,organic,False,0.0
+180,Email Newsletter,2023-01-21 10:00:00,0.0,organic,False,0.0
+26,Facebook Ad,2023-01-21 12:00:00,4.43,paid,False,0.0
+180,Instagram Ad,2023-01-21 12:00:00,5.96,paid,False,0.0
+86,Google Search,2023-01-21 14:00:00,2.3,paid,False,0.0
+42,Facebook Ad,2023-01-21 15:00:00,4.49,paid,False,0.0
+26,Email Newsletter,2023-01-21 18:00:00,0.0,organic,False,0.0
+56,Google Search,2023-01-21 19:00:00,3.59,paid,False,0.0
+167,Facebook Ad,2023-01-21 21:00:00,2.4,paid,False,0.0
+17,Facebook Ad,2023-01-21 21:00:00,3.69,paid,False,0.0
+59,Facebook Ad,2023-01-21 21:00:00,4.01,paid,False,0.0
+185,YouTube Ad,2023-01-21 22:00:00,4.73,paid,False,0.0
+1,YouTube Ad,2023-01-21 23:00:00,3.26,paid,False,0.0
+18,Google Search,2023-01-21 23:00:00,2.74,paid,False,0.0
+179,Email Newsletter,2023-01-21 23:00:00,0.0,organic,False,0.0
+27,Product Review,2023-01-22 00:00:00,0.0,organic,False,0.0
+1,Purchase,2023-01-22 00:00:00,0.0,,True,109.56741028962053
+6,Instagram Ad,2023-01-22 01:00:00,4.8,paid,False,0.0
+2,Google Search,2023-01-22 02:00:00,1.63,paid,False,0.0
+148,Facebook Ad,2023-01-22 02:00:00,3.74,paid,False,0.0
+86,YouTube Ad,2023-01-22 03:00:00,3.32,paid,False,0.0
+64,Email Newsletter,2023-01-22 06:00:00,0.0,organic,False,0.0
+26,Purchase,2023-01-22 06:00:00,0.0,,True,224.14230143380956
+70,Recommend a Friend,2023-01-22 08:00:00,0.0,organic,False,0.0
+148,Blog Post View,2023-01-22 11:00:00,0.0,organic,False,0.0
+3,Recommend a Friend,2023-01-22 11:00:00,0.0,organic,False,0.0
+130,Recommend a Friend,2023-01-22 12:00:00,0.0,organic,False,0.0
+13,YouTube Ad,2023-01-22 12:00:00,6.02,paid,False,0.0
+82,Instagram Ad,2023-01-22 13:00:00,5.31,paid,False,0.0
+95,Instagram Ad,2023-01-22 14:00:00,4.46,paid,False,0.0
+83,Blog Post View,2023-01-22 15:00:00,0.0,organic,False,0.0
+168,Instagram Ad,2023-01-22 16:00:00,3.13,paid,False,0.0
+33,Discount Code Email,2023-01-22 18:00:00,0.0,organic,False,0.0
+137,Instagram Ad,2023-01-22 19:00:00,2.95,paid,False,0.0
+59,Google Search,2023-01-22 21:00:00,2.64,paid,False,0.0
+37,Facebook Ad,2023-01-22 22:00:00,4.69,paid,False,0.0
+185,Recommend a Friend,2023-01-22 22:00:00,0.0,organic,False,0.0
+14,Instagram Ad,2023-01-22 22:00:00,4.24,paid,False,0.0
+109,Website Visit,2023-01-23 01:00:00,0.0,organic,False,0.0
+133,Facebook Ad,2023-01-23 01:00:00,3.35,paid,False,0.0
+148,Instagram Ad,2023-01-23 04:00:00,3.78,paid,False,0.0
+30,Facebook Ad,2023-01-23 06:00:00,4.62,paid,False,0.0
+37,Recommend a Friend,2023-01-23 06:00:00,0.0,organic,False,0.0
+68,Email Newsletter,2023-01-23 07:00:00,0.0,organic,False,0.0
+95,Blog Post View,2023-01-23 07:00:00,0.0,organic,False,0.0
+170,Facebook Ad,2023-01-23 12:00:00,3.45,paid,False,0.0
+94,Facebook Ad,2023-01-23 12:00:00,3.13,paid,False,0.0
+83,Product Review,2023-01-23 13:00:00,0.0,organic,False,0.0
+42,Email Newsletter,2023-01-23 13:00:00,0.0,organic,False,0.0
+27,Blog Post View,2023-01-23 13:00:00,0.0,organic,False,0.0
+163,Facebook Ad,2023-01-23 13:00:00,3.29,paid,False,0.0
+17,YouTube Ad,2023-01-23 14:00:00,5.67,paid,False,0.0
+33,YouTube Ad,2023-01-23 14:00:00,4.35,paid,False,0.0
+170,Recommend a Friend,2023-01-23 17:00:00,0.0,organic,False,0.0
+137,Blog Post View,2023-01-23 17:00:00,0.0,organic,False,0.0
+56,Product Review,2023-01-23 18:00:00,0.0,organic,False,0.0
+167,Instagram Ad,2023-01-23 19:00:00,3.32,paid,False,0.0
+6,YouTube Ad,2023-01-23 20:00:00,5.05,paid,False,0.0
+86,YouTube Ad,2023-01-23 22:00:00,4.6,paid,False,0.0
+83,Product Review,2023-01-23 22:00:00,0.0,organic,False,0.0
+101,Facebook Ad,2023-01-23 22:00:00,2.99,paid,False,0.0
+33,Website Visit,2023-01-23 22:00:00,0.0,organic,False,0.0
+13,Email Newsletter,2023-01-23 23:00:00,0.0,organic,False,0.0
+133,Product Review,2023-01-24 00:00:00,0.0,organic,False,0.0
+101,Email Newsletter,2023-01-24 00:00:00,0.0,organic,False,0.0
+14,Website Visit,2023-01-24 03:00:00,0.0,organic,False,0.0
+167,Product Review,2023-01-24 05:00:00,0.0,organic,False,0.0
+170,Product Review,2023-01-24 06:00:00,0.0,organic,False,0.0
+82,Discount Code Email,2023-01-24 06:00:00,0.0,organic,False,0.0
+118,Facebook Ad,2023-01-24 07:00:00,4.66,paid,False,0.0
+170,Purchase,2023-01-24 07:00:00,0.0,,True,120.3474099709711
+130,Facebook Ad,2023-01-24 07:00:00,3.87,paid,False,0.0
+148,Recommend a Friend,2023-01-24 08:00:00,0.0,organic,False,0.0
+168,Instagram Ad,2023-01-24 08:00:00,3.06,paid,False,0.0
+33,Instagram Ad,2023-01-24 08:00:00,4.6,paid,False,0.0
+95,Facebook Ad,2023-01-24 09:00:00,3.2,paid,False,0.0
+195,YouTube Ad,2023-01-24 11:00:00,5.89,paid,False,0.0
+185,YouTube Ad,2023-01-24 12:00:00,5.42,paid,False,0.0
+109,Instagram Ad,2023-01-24 13:00:00,5.38,paid,False,0.0
+163,Google Search,2023-01-24 15:00:00,1.88,paid,False,0.0
+137,Purchase,2023-01-24 15:00:00,0.0,,True,136.3985970526125
+164,Instagram Ad,2023-01-24 16:00:00,3.68,paid,False,0.0
+189,Instagram Ad,2023-01-24 17:00:00,5.35,paid,False,0.0
+168,Email Newsletter,2023-01-24 17:00:00,0.0,organic,False,0.0
+30,Facebook Ad,2023-01-24 17:00:00,3.19,paid,False,0.0
+118,Google Search,2023-01-24 18:00:00,2.04,paid,False,0.0
+30,Blog Post View,2023-01-24 19:00:00,0.0,organic,False,0.0
+185,Blog Post View,2023-01-24 19:00:00,0.0,organic,False,0.0
+59,Product Review,2023-01-24 19:00:00,0.0,organic,False,0.0
+83,Instagram Ad,2023-01-24 20:00:00,3.96,paid,False,0.0
+40,Instagram Ad,2023-01-24 20:00:00,4.27,paid,False,0.0
+42,Email Newsletter,2023-01-24 22:00:00,0.0,organic,False,0.0
+17,Blog Post View,2023-01-24 23:00:00,0.0,organic,False,0.0
+7,Instagram Ad,2023-01-24 23:00:00,2.52,paid,False,0.0
+37,Instagram Ad,2023-01-24 23:00:00,5.56,paid,False,0.0
+95,YouTube Ad,2023-01-25 01:00:00,6.51,paid,False,0.0
+101,Product Review,2023-01-25 01:00:00,0.0,organic,False,0.0
+27,Product Review,2023-01-25 02:00:00,0.0,organic,False,0.0
+189,Recommend a Friend,2023-01-25 03:00:00,0.0,organic,False,0.0
+40,Blog Post View,2023-01-25 03:00:00,0.0,organic,False,0.0
+118,Blog Post View,2023-01-25 03:00:00,0.0,organic,False,0.0
+109,Website Visit,2023-01-25 03:00:00,0.0,organic,False,0.0
+13,YouTube Ad,2023-01-25 05:00:00,5.86,paid,False,0.0
+27,Blog Post View,2023-01-25 06:00:00,0.0,organic,False,0.0
+25,Instagram Ad,2023-01-25 06:00:00,4.32,paid,False,0.0
+14,Product Review,2023-01-25 07:00:00,0.0,organic,False,0.0
+46,Instagram Ad,2023-01-25 08:00:00,5.23,paid,False,0.0
+33,YouTube Ad,2023-01-25 08:00:00,3.49,paid,False,0.0
+148,Product Review,2023-01-25 08:00:00,0.0,organic,False,0.0
+33,Email Newsletter,2023-01-25 09:00:00,0.0,organic,False,0.0
+167,Google Search,2023-01-25 09:00:00,2.31,paid,False,0.0
+130,Product Review,2023-01-25 10:00:00,0.0,organic,False,0.0
+94,Product Review,2023-01-25 10:00:00,0.0,organic,False,0.0
+53,Google Search,2023-01-25 11:00:00,2.19,paid,False,0.0
+195,Facebook Ad,2023-01-25 11:00:00,4.15,paid,False,0.0
+56,Discount Code Email,2023-01-25 13:00:00,0.0,organic,False,0.0
+56,Discount Code Email,2023-01-25 14:00:00,0.0,organic,False,0.0
+109,Facebook Ad,2023-01-25 14:00:00,3.76,paid,False,0.0
+62,YouTube Ad,2023-01-25 17:00:00,5.31,paid,False,0.0
+82,Website Visit,2023-01-25 18:00:00,0.0,organic,False,0.0
+13,Blog Post View,2023-01-25 19:00:00,0.0,organic,False,0.0
+195,Product Review,2023-01-25 20:00:00,0.0,organic,False,0.0
+168,Blog Post View,2023-01-25 21:00:00,0.0,organic,False,0.0
+133,Email Newsletter,2023-01-25 22:00:00,0.0,organic,False,0.0
+109,Google Search,2023-01-25 23:00:00,3.85,paid,False,0.0
+17,Google Search,2023-01-26 01:00:00,2.8,paid,False,0.0
+189,Website Visit,2023-01-26 01:00:00,0.0,organic,False,0.0
+164,Facebook Ad,2023-01-26 01:00:00,4.35,paid,False,0.0
+30,Facebook Ad,2023-01-26 01:00:00,2.81,paid,False,0.0
+109,Purchase,2023-01-26 03:00:00,0.0,,True,158.02441197106134
+40,Blog Post View,2023-01-26 05:00:00,0.0,organic,False,0.0
+195,YouTube Ad,2023-01-26 08:00:00,4.2,paid,False,0.0
+8,YouTube Ad,2023-01-26 08:00:00,5.77,paid,False,0.0
+163,Google Search,2023-01-26 09:00:00,2.76,paid,False,0.0
+96,Facebook Ad,2023-01-26 09:00:00,4.32,paid,False,0.0
+25,YouTube Ad,2023-01-26 09:00:00,6.71,paid,False,0.0
+7,Blog Post View,2023-01-26 11:00:00,0.0,organic,False,0.0
+37,Google Search,2023-01-26 11:00:00,3.92,paid,False,0.0
+101,Google Search,2023-01-26 11:00:00,2.72,paid,False,0.0
+163,Discount Code Email,2023-01-26 12:00:00,0.0,organic,False,0.0
+42,Email Newsletter,2023-01-26 12:00:00,0.0,organic,False,0.0
+194,Google Search,2023-01-26 12:00:00,2.11,paid,False,0.0
+59,Website Visit,2023-01-26 14:00:00,0.0,organic,False,0.0
+30,Google Search,2023-01-26 14:00:00,2.17,paid,False,0.0
+82,Facebook Ad,2023-01-26 14:00:00,2.18,paid,False,0.0
+187,YouTube Ad,2023-01-26 17:00:00,6.95,paid,False,0.0
+83,Product Review,2023-01-26 17:00:00,0.0,organic,False,0.0
+167,Facebook Ad,2023-01-26 18:00:00,3.61,paid,False,0.0
+14,Recommend a Friend,2023-01-26 18:00:00,0.0,organic,False,0.0
+94,Website Visit,2023-01-26 19:00:00,0.0,organic,False,0.0
+118,Website Visit,2023-01-26 21:00:00,0.0,organic,False,0.0
+8,Google Search,2023-01-26 21:00:00,2.05,paid,False,0.0
+46,Discount Code Email,2023-01-26 23:00:00,0.0,organic,False,0.0
+194,Website Visit,2023-01-27 02:00:00,0.0,organic,False,0.0
+128,Google Search,2023-01-27 03:00:00,2.33,paid,False,0.0
+62,Recommend a Friend,2023-01-27 03:00:00,0.0,organic,False,0.0
+25,Website Visit,2023-01-27 04:00:00,0.0,organic,False,0.0
+148,Blog Post View,2023-01-27 04:00:00,0.0,organic,False,0.0
+25,Product Review,2023-01-27 05:00:00,0.0,organic,False,0.0
+81,Instagram Ad,2023-01-27 05:00:00,3.55,paid,False,0.0
+53,Instagram Ad,2023-01-27 06:00:00,4.28,paid,False,0.0
+7,Website Visit,2023-01-27 08:00:00,0.0,organic,False,0.0
+101,YouTube Ad,2023-01-27 08:00:00,6.5,paid,False,0.0
+158,Facebook Ad,2023-01-27 11:00:00,2.3,paid,False,0.0
+118,Product Review,2023-01-27 11:00:00,0.0,organic,False,0.0
+37,Discount Code Email,2023-01-27 12:00:00,0.0,organic,False,0.0
+168,Blog Post View,2023-01-27 12:00:00,0.0,organic,False,0.0
+94,Website Visit,2023-01-27 13:00:00,0.0,organic,False,0.0
+167,Recommend a Friend,2023-01-27 13:00:00,0.0,organic,False,0.0
+108,YouTube Ad,2023-01-27 14:00:00,4.97,paid,False,0.0
+53,Facebook Ad,2023-01-27 14:00:00,3.72,paid,False,0.0
+147,YouTube Ad,2023-01-27 15:00:00,3.86,paid,False,0.0
+189,Recommend a Friend,2023-01-27 16:00:00,0.0,organic,False,0.0
+7,Email Newsletter,2023-01-27 19:00:00,0.0,organic,False,0.0
+164,Recommend a Friend,2023-01-27 19:00:00,0.0,organic,False,0.0
+133,Recommend a Friend,2023-01-27 19:00:00,0.0,organic,False,0.0
+83,YouTube Ad,2023-01-27 19:00:00,5.86,paid,False,0.0
+71,Google Search,2023-01-27 21:00:00,3.85,paid,False,0.0
+76,Google Search,2023-01-27 21:00:00,3.65,paid,False,0.0
+173,YouTube Ad,2023-01-27 22:00:00,3.64,paid,False,0.0
+169,YouTube Ad,2023-01-27 22:00:00,6.23,paid,False,0.0
+133,Blog Post View,2023-01-27 23:00:00,0.0,organic,False,0.0
+40,Google Search,2023-01-28 00:00:00,2.07,paid,False,0.0
+163,Blog Post View,2023-01-28 00:00:00,0.0,organic,False,0.0
+71,YouTube Ad,2023-01-28 01:00:00,3.1,paid,False,0.0
+89,YouTube Ad,2023-01-28 01:00:00,5.47,paid,False,0.0
+29,Google Search,2023-01-28 03:00:00,3.92,paid,False,0.0
+195,Facebook Ad,2023-01-28 03:00:00,3.41,paid,False,0.0
+46,Instagram Ad,2023-01-28 03:00:00,3.28,paid,False,0.0
+8,Instagram Ad,2023-01-28 03:00:00,2.82,paid,False,0.0
+46,Product Review,2023-01-28 04:00:00,0.0,organic,False,0.0
+29,Facebook Ad,2023-01-28 05:00:00,3.0,paid,False,0.0
+59,Instagram Ad,2023-01-28 06:00:00,5.31,paid,False,0.0
+96,Recommend a Friend,2023-01-28 06:00:00,0.0,organic,False,0.0
+164,Email Newsletter,2023-01-28 06:00:00,0.0,organic,False,0.0
+42,Facebook Ad,2023-01-28 06:00:00,3.38,paid,False,0.0
+108,YouTube Ad,2023-01-28 07:00:00,6.71,paid,False,0.0
+187,Instagram Ad,2023-01-28 07:00:00,4.23,paid,False,0.0
+30,Recommend a Friend,2023-01-28 07:00:00,0.0,organic,False,0.0
+128,Recommend a Friend,2023-01-28 08:00:00,0.0,organic,False,0.0
+107,YouTube Ad,2023-01-28 09:00:00,6.88,paid,False,0.0
+176,Instagram Ad,2023-01-28 09:00:00,4.05,paid,False,0.0
+14,Website Visit,2023-01-28 09:00:00,0.0,organic,False,0.0
+24,YouTube Ad,2023-01-28 10:00:00,6.86,paid,False,0.0
+102,Google Search,2023-01-28 11:00:00,1.6,paid,False,0.0
+147,Recommend a Friend,2023-01-28 11:00:00,0.0,organic,False,0.0
+29,Recommend a Friend,2023-01-28 11:00:00,0.0,organic,False,0.0
+128,Facebook Ad,2023-01-28 11:00:00,4.31,paid,False,0.0
+158,Blog Post View,2023-01-28 12:00:00,0.0,organic,False,0.0
+9,Facebook Ad,2023-01-28 12:00:00,3.22,paid,False,0.0
+173,Instagram Ad,2023-01-28 12:00:00,3.09,paid,False,0.0
+194,Blog Post View,2023-01-28 13:00:00,0.0,organic,False,0.0
+96,Product Review,2023-01-28 13:00:00,0.0,organic,False,0.0
+159,Instagram Ad,2023-01-28 13:00:00,4.15,paid,False,0.0
+41,Facebook Ad,2023-01-28 13:00:00,3.05,paid,False,0.0
+166,YouTube Ad,2023-01-28 13:00:00,4.74,paid,False,0.0
+62,Blog Post View,2023-01-28 15:00:00,0.0,organic,False,0.0
+81,Google Search,2023-01-28 16:00:00,1.81,paid,False,0.0
+45,YouTube Ad,2023-01-28 16:00:00,5.8,paid,False,0.0
+108,Discount Code Email,2023-01-28 16:00:00,0.0,organic,False,0.0
+8,Instagram Ad,2023-01-28 17:00:00,4.35,paid,False,0.0
+46,Website Visit,2023-01-28 17:00:00,0.0,organic,False,0.0
+53,YouTube Ad,2023-01-28 17:00:00,4.26,paid,False,0.0
+53,Purchase,2023-01-28 18:00:00,0.0,,True,193.46954891555814
+112,Facebook Ad,2023-01-28 19:00:00,3.7,paid,False,0.0
+187,Discount Code Email,2023-01-28 19:00:00,0.0,organic,False,0.0
+97,Google Search,2023-01-28 21:00:00,1.93,paid,False,0.0
+40,Product Review,2023-01-28 21:00:00,0.0,organic,False,0.0
+30,Email Newsletter,2023-01-28 22:00:00,0.0,organic,False,0.0
+163,Email Newsletter,2023-01-28 23:00:00,0.0,organic,False,0.0
+151,Google Search,2023-01-28 23:00:00,1.5,paid,False,0.0
+169,Recommend a Friend,2023-01-29 00:00:00,0.0,organic,False,0.0
+46,Product Review,2023-01-29 00:00:00,0.0,organic,False,0.0
+187,Purchase,2023-01-29 01:00:00,0.0,,True,321.4744630404425
+96,Website Visit,2023-01-29 01:00:00,0.0,organic,False,0.0
+163,Recommend a Friend,2023-01-29 01:00:00,0.0,organic,False,0.0
+118,Recommend a Friend,2023-01-29 02:00:00,0.0,organic,False,0.0
+96,Product Review,2023-01-29 03:00:00,0.0,organic,False,0.0
+168,Facebook Ad,2023-01-29 03:00:00,4.91,paid,False,0.0
+89,Recommend a Friend,2023-01-29 03:00:00,0.0,organic,False,0.0
+118,Facebook Ad,2023-01-29 05:00:00,3.24,paid,False,0.0
+59,Email Newsletter,2023-01-29 07:00:00,0.0,organic,False,0.0
+76,Discount Code Email,2023-01-29 07:00:00,0.0,organic,False,0.0
+178,YouTube Ad,2023-01-29 08:00:00,3.32,paid,False,0.0
+166,Website Visit,2023-01-29 09:00:00,0.0,organic,False,0.0
+7,Instagram Ad,2023-01-29 09:00:00,4.88,paid,False,0.0
+24,Recommend a Friend,2023-01-29 10:00:00,0.0,organic,False,0.0
+176,Product Review,2023-01-29 11:00:00,0.0,organic,False,0.0
+151,YouTube Ad,2023-01-29 11:00:00,6.03,paid,False,0.0
+37,Website Visit,2023-01-29 11:00:00,0.0,organic,False,0.0
+97,Google Search,2023-01-29 12:00:00,1.67,paid,False,0.0
+178,YouTube Ad,2023-01-29 13:00:00,5.8,paid,False,0.0
+123,Facebook Ad,2023-01-29 14:00:00,3.13,paid,False,0.0
+128,Discount Code Email,2023-01-29 15:00:00,0.0,organic,False,0.0
+71,Blog Post View,2023-01-29 16:00:00,0.0,organic,False,0.0
+11,YouTube Ad,2023-01-29 16:00:00,6.83,paid,False,0.0
+76,Instagram Ad,2023-01-29 16:00:00,2.72,paid,False,0.0
+81,Website Visit,2023-01-29 18:00:00,0.0,organic,False,0.0
+45,Google Search,2023-01-29 21:00:00,3.6,paid,False,0.0
+9,Instagram Ad,2023-01-29 21:00:00,4.32,paid,False,0.0
+76,Purchase,2023-01-29 21:00:00,0.0,,True,144.9618774689562
+79,Google Search,2023-01-29 21:00:00,3.73,paid,False,0.0
+164,Blog Post View,2023-01-29 22:00:00,0.0,organic,False,0.0
+107,Recommend a Friend,2023-01-29 22:00:00,0.0,organic,False,0.0
+141,YouTube Ad,2023-01-29 22:00:00,6.59,paid,False,0.0
+159,Facebook Ad,2023-01-29 22:00:00,3.93,paid,False,0.0
+41,Facebook Ad,2023-01-30 00:00:00,4.37,paid,False,0.0
+29,Instagram Ad,2023-01-30 00:00:00,3.35,paid,False,0.0
+147,Blog Post View,2023-01-30 00:00:00,0.0,organic,False,0.0
+194,YouTube Ad,2023-01-30 00:00:00,5.0,paid,False,0.0
+97,Website Visit,2023-01-30 01:00:00,0.0,organic,False,0.0
+32,Google Search,2023-01-30 02:00:00,1.64,paid,False,0.0
+141,Product Review,2023-01-30 02:00:00,0.0,organic,False,0.0
+8,Blog Post View,2023-01-30 02:00:00,0.0,organic,False,0.0
+168,Purchase,2023-01-30 02:00:00,0.0,,True,136.74073502952749
+11,Product Review,2023-01-30 02:00:00,0.0,organic,False,0.0
+158,Website Visit,2023-01-30 02:00:00,0.0,organic,False,0.0
+37,Facebook Ad,2023-01-30 03:00:00,4.89,paid,False,0.0
+173,Blog Post View,2023-01-30 03:00:00,0.0,organic,False,0.0
+42,Instagram Ad,2023-01-30 04:00:00,3.36,paid,False,0.0
+14,Instagram Ad,2023-01-30 04:00:00,3.28,paid,False,0.0
+11,Website Visit,2023-01-30 04:00:00,0.0,organic,False,0.0
+79,Google Search,2023-01-30 05:00:00,1.81,paid,False,0.0
+108,Instagram Ad,2023-01-30 05:00:00,4.11,paid,False,0.0
+136,Instagram Ad,2023-01-30 06:00:00,3.86,paid,False,0.0
+102,Facebook Ad,2023-01-30 09:00:00,4.77,paid,False,0.0
+151,Facebook Ad,2023-01-30 10:00:00,3.84,paid,False,0.0
+81,YouTube Ad,2023-01-30 12:00:00,4.42,paid,False,0.0
+32,Blog Post View,2023-01-30 13:00:00,0.0,organic,False,0.0
+126,Facebook Ad,2023-01-30 14:00:00,3.08,paid,False,0.0
+62,YouTube Ad,2023-01-30 14:00:00,3.65,paid,False,0.0
+150,Google Search,2023-01-30 15:00:00,1.76,paid,False,0.0
+45,Website Visit,2023-01-30 15:00:00,0.0,organic,False,0.0
+151,Purchase,2023-01-30 15:00:00,0.0,,True,142.65474672985516
+112,Product Review,2023-01-30 17:00:00,0.0,organic,False,0.0
+45,Discount Code Email,2023-01-30 17:00:00,0.0,organic,False,0.0
+117,YouTube Ad,2023-01-30 17:00:00,5.86,paid,False,0.0
+89,Discount Code Email,2023-01-30 17:00:00,0.0,organic,False,0.0
+96,Instagram Ad,2023-01-30 18:00:00,5.88,paid,False,0.0
+112,Email Newsletter,2023-01-30 18:00:00,0.0,organic,False,0.0
+62,Website Visit,2023-01-30 18:00:00,0.0,organic,False,0.0
+171,YouTube Ad,2023-01-30 19:00:00,5.99,paid,False,0.0
+178,Email Newsletter,2023-01-30 19:00:00,0.0,organic,False,0.0
+71,Facebook Ad,2023-01-30 20:00:00,2.69,paid,False,0.0
+96,Email Newsletter,2023-01-30 21:00:00,0.0,organic,False,0.0
+108,Facebook Ad,2023-01-30 21:00:00,3.04,paid,False,0.0
+194,Email Newsletter,2023-01-30 22:00:00,0.0,organic,False,0.0
+169,YouTube Ad,2023-01-30 22:00:00,3.63,paid,False,0.0
+14,Purchase,2023-01-30 23:00:00,0.0,,True,84.50345357673365
+128,Blog Post View,2023-01-31 00:00:00,0.0,organic,False,0.0
+176,Recommend a Friend,2023-01-31 00:00:00,0.0,organic,False,0.0
+9,Email Newsletter,2023-01-31 00:00:00,0.0,organic,False,0.0
+11,Discount Code Email,2023-01-31 03:00:00,0.0,organic,False,0.0
+147,Instagram Ad,2023-01-31 03:00:00,5.53,paid,False,0.0
+62,Instagram Ad,2023-01-31 04:00:00,5.87,paid,False,0.0
+173,Email Newsletter,2023-01-31 05:00:00,0.0,organic,False,0.0
+169,Facebook Ad,2023-01-31 06:00:00,4.97,paid,False,0.0
+24,Blog Post View,2023-01-31 07:00:00,0.0,organic,False,0.0
+136,Website Visit,2023-01-31 07:00:00,0.0,organic,False,0.0
+183,Instagram Ad,2023-01-31 08:00:00,5.58,paid,False,0.0
+112,YouTube Ad,2023-01-31 08:00:00,3.61,paid,False,0.0
+166,Facebook Ad,2023-01-31 08:00:00,4.44,paid,False,0.0
+8,Recommend a Friend,2023-01-31 08:00:00,0.0,organic,False,0.0
+169,Email Newsletter,2023-01-31 09:00:00,0.0,organic,False,0.0
+126,Blog Post View,2023-01-31 09:00:00,0.0,organic,False,0.0
+128,Recommend a Friend,2023-01-31 09:00:00,0.0,organic,False,0.0
+11,Purchase,2023-01-31 10:00:00,0.0,,True,166.3334066042212
+142,Google Search,2023-01-31 10:00:00,3.0,paid,False,0.0
+42,Product Review,2023-01-31 10:00:00,0.0,organic,False,0.0
+188,Google Search,2023-01-31 11:00:00,3.11,paid,False,0.0
+92,Instagram Ad,2023-01-31 12:00:00,5.7,paid,False,0.0
+123,Product Review,2023-01-31 12:00:00,0.0,organic,False,0.0
+160,Google Search,2023-01-31 14:00:00,3.43,paid,False,0.0
+81,Facebook Ad,2023-01-31 14:00:00,4.24,paid,False,0.0
+32,Website Visit,2023-01-31 14:00:00,0.0,organic,False,0.0
+159,Facebook Ad,2023-01-31 14:00:00,4.66,paid,False,0.0
+150,Product Review,2023-01-31 16:00:00,0.0,organic,False,0.0
+41,Facebook Ad,2023-01-31 16:00:00,3.42,paid,False,0.0
+107,Facebook Ad,2023-01-31 18:00:00,4.16,paid,False,0.0
+74,Google Search,2023-01-31 18:00:00,2.81,paid,False,0.0
+160,Email Newsletter,2023-01-31 18:00:00,0.0,organic,False,0.0
+169,Blog Post View,2023-01-31 18:00:00,0.0,organic,False,0.0
+92,Recommend a Friend,2023-01-31 18:00:00,0.0,organic,False,0.0
+141,Facebook Ad,2023-01-31 18:00:00,2.65,paid,False,0.0
+150,Facebook Ad,2023-01-31 20:00:00,2.69,paid,False,0.0
+20,Instagram Ad,2023-01-31 20:00:00,5.11,paid,False,0.0
+158,YouTube Ad,2023-01-31 21:00:00,5.0,paid,False,0.0
+24,Google Search,2023-01-31 22:00:00,2.97,paid,False,0.0
+117,Discount Code Email,2023-01-31 23:00:00,0.0,organic,False,0.0
+79,Email Newsletter,2023-01-31 23:00:00,0.0,organic,False,0.0
+176,Discount Code Email,2023-02-01 01:00:00,0.0,organic,False,0.0
+62,Blog Post View,2023-02-01 02:00:00,0.0,organic,False,0.0
+128,Purchase,2023-02-01 02:00:00,0.0,,True,93.51217987161691
+92,Discount Code Email,2023-02-01 04:00:00,0.0,organic,False,0.0
+8,Purchase,2023-02-01 05:00:00,0.0,,True,168.04187921866804
+173,Product Review,2023-02-01 05:00:00,0.0,organic,False,0.0
+71,Email Newsletter,2023-02-01 05:00:00,0.0,organic,False,0.0
+102,Discount Code Email,2023-02-01 06:00:00,0.0,organic,False,0.0
+42,Purchase,2023-02-01 06:00:00,0.0,,True,132.43967300038176
+194,YouTube Ad,2023-02-01 07:00:00,3.37,paid,False,0.0
+74,Blog Post View,2023-02-01 07:00:00,0.0,organic,False,0.0
+171,YouTube Ad,2023-02-01 07:00:00,4.85,paid,False,0.0
+176,Recommend a Friend,2023-02-01 08:00:00,0.0,organic,False,0.0
+32,Instagram Ad,2023-02-01 09:00:00,3.19,paid,False,0.0
+74,Recommend a Friend,2023-02-01 09:00:00,0.0,organic,False,0.0
+123,Recommend a Friend,2023-02-01 11:00:00,0.0,organic,False,0.0
+126,Google Search,2023-02-01 11:00:00,2.94,paid,False,0.0
+183,Discount Code Email,2023-02-01 12:00:00,0.0,organic,False,0.0
+108,YouTube Ad,2023-02-01 12:00:00,5.57,paid,False,0.0
+178,Discount Code Email,2023-02-01 12:00:00,0.0,organic,False,0.0
+45,Instagram Ad,2023-02-01 13:00:00,5.77,paid,False,0.0
+24,Purchase,2023-02-01 15:00:00,0.0,,True,96.30678624344154
+62,Purchase,2023-02-01 17:00:00,0.0,,True,154.5743149741118
+81,Instagram Ad,2023-02-01 17:00:00,3.6,paid,False,0.0
+173,Website Visit,2023-02-01 18:00:00,0.0,organic,False,0.0
+147,Website Visit,2023-02-01 18:00:00,0.0,organic,False,0.0
+150,Product Review,2023-02-01 19:00:00,0.0,organic,False,0.0
+71,Recommend a Friend,2023-02-01 20:00:00,0.0,organic,False,0.0
+158,Google Search,2023-02-01 21:00:00,3.3,paid,False,0.0
+147,Product Review,2023-02-01 23:00:00,0.0,organic,False,0.0
+71,Facebook Ad,2023-02-02 00:00:00,4.85,paid,False,0.0
+107,Email Newsletter,2023-02-02 01:00:00,0.0,organic,False,0.0
+74,Product Review,2023-02-02 01:00:00,0.0,organic,False,0.0
+142,Website Visit,2023-02-02 01:00:00,0.0,organic,False,0.0
+136,Website Visit,2023-02-02 01:00:00,0.0,organic,False,0.0
+176,Website Visit,2023-02-02 01:00:00,0.0,organic,False,0.0
+188,Email Newsletter,2023-02-02 01:00:00,0.0,organic,False,0.0
+92,Instagram Ad,2023-02-02 02:00:00,3.52,paid,False,0.0
+32,Instagram Ad,2023-02-02 04:00:00,5.52,paid,False,0.0
+166,Discount Code Email,2023-02-02 05:00:00,0.0,organic,False,0.0
+108,Facebook Ad,2023-02-02 06:00:00,2.9,paid,False,0.0
+147,Purchase,2023-02-02 06:00:00,0.0,,True,185.36085614172435
+160,Website Visit,2023-02-02 07:00:00,0.0,organic,False,0.0
+183,Instagram Ad,2023-02-02 07:00:00,5.7,paid,False,0.0
+123,Product Review,2023-02-02 08:00:00,0.0,organic,False,0.0
+141,Blog Post View,2023-02-02 08:00:00,0.0,organic,False,0.0
+74,Product Review,2023-02-02 08:00:00,0.0,organic,False,0.0
+171,Recommend a Friend,2023-02-02 09:00:00,0.0,organic,False,0.0
+107,Recommend a Friend,2023-02-02 09:00:00,0.0,organic,False,0.0
+183,YouTube Ad,2023-02-02 10:00:00,4.65,paid,False,0.0
+20,Email Newsletter,2023-02-02 11:00:00,0.0,organic,False,0.0
+108,Purchase,2023-02-02 11:00:00,0.0,,True,117.75403154869446
+141,Email Newsletter,2023-02-02 11:00:00,0.0,organic,False,0.0
+92,Website Visit,2023-02-02 11:00:00,0.0,organic,False,0.0
+178,Google Search,2023-02-02 14:00:00,3.74,paid,False,0.0
+117,Facebook Ad,2023-02-02 14:00:00,4.35,paid,False,0.0
+160,Google Search,2023-02-02 15:00:00,2.15,paid,False,0.0
+32,Instagram Ad,2023-02-02 15:00:00,4.19,paid,False,0.0
+117,Recommend a Friend,2023-02-02 16:00:00,0.0,organic,False,0.0
+123,Google Search,2023-02-02 16:00:00,3.26,paid,False,0.0
+141,Google Search,2023-02-02 17:00:00,2.48,paid,False,0.0
+79,Facebook Ad,2023-02-02 19:00:00,2.44,paid,False,0.0
+194,Email Newsletter,2023-02-02 21:00:00,0.0,organic,False,0.0
+126,Email Newsletter,2023-02-02 22:00:00,0.0,organic,False,0.0
+79,Blog Post View,2023-02-02 22:00:00,0.0,organic,False,0.0
+188,YouTube Ad,2023-02-02 23:00:00,6.12,paid,False,0.0
+166,Website Visit,2023-02-02 23:00:00,0.0,organic,False,0.0
+136,Discount Code Email,2023-02-03 00:00:00,0.0,organic,False,0.0
+74,Website Visit,2023-02-03 01:00:00,0.0,organic,False,0.0
+117,Purchase,2023-02-03 03:00:00,0.0,,True,99.8457744165002
+74,Purchase,2023-02-03 04:00:00,0.0,,True,165.2275704996166
+102,YouTube Ad,2023-02-03 05:00:00,6.47,paid,False,0.0
+45,Recommend a Friend,2023-02-03 05:00:00,0.0,organic,False,0.0
+81,Email Newsletter,2023-02-03 10:00:00,0.0,organic,False,0.0
+32,Email Newsletter,2023-02-03 11:00:00,0.0,organic,False,0.0
+178,Email Newsletter,2023-02-03 11:00:00,0.0,organic,False,0.0
+136,Discount Code Email,2023-02-03 12:00:00,0.0,organic,False,0.0
+150,Product Review,2023-02-03 17:00:00,0.0,organic,False,0.0
+158,Website Visit,2023-02-03 18:00:00,0.0,organic,False,0.0
+142,Blog Post View,2023-02-03 19:00:00,0.0,organic,False,0.0
+171,Product Review,2023-02-03 19:00:00,0.0,organic,False,0.0
+126,YouTube Ad,2023-02-03 20:00:00,3.16,paid,False,0.0
+123,Recommend a Friend,2023-02-03 22:00:00,0.0,organic,False,0.0
+20,Facebook Ad,2023-02-04 00:00:00,3.8,paid,False,0.0
+92,Website Visit,2023-02-04 01:00:00,0.0,organic,False,0.0
+32,Purchase,2023-02-04 04:00:00,0.0,,True,199.22653150754132
+141,Facebook Ad,2023-02-04 06:00:00,3.48,paid,False,0.0
+126,Recommend a Friend,2023-02-04 07:00:00,0.0,organic,False,0.0
+171,Purchase,2023-02-04 07:00:00,0.0,,True,201.61315595695595
+92,Discount Code Email,2023-02-04 08:00:00,0.0,organic,False,0.0
+20,Discount Code Email,2023-02-04 09:00:00,0.0,organic,False,0.0
+160,Facebook Ad,2023-02-04 10:00:00,4.48,paid,False,0.0
+166,Discount Code Email,2023-02-04 11:00:00,0.0,organic,False,0.0
+123,Email Newsletter,2023-02-04 11:00:00,0.0,organic,False,0.0
+126,Purchase,2023-02-04 11:00:00,0.0,,True,175.15741816037138
+102,Google Search,2023-02-04 18:00:00,2.83,paid,False,0.0
+158,Discount Code Email,2023-02-04 19:00:00,0.0,organic,False,0.0
+45,Website Visit,2023-02-04 20:00:00,0.0,organic,False,0.0
+102,Email Newsletter,2023-02-05 03:00:00,0.0,organic,False,0.0
+20,Facebook Ad,2023-02-05 03:00:00,4.91,paid,False,0.0
+92,Purchase,2023-02-05 04:00:00,0.0,,True,233.88072456039677
+136,Instagram Ad,2023-02-05 05:00:00,2.95,paid,False,0.0
+160,YouTube Ad,2023-02-05 07:00:00,3.76,paid,False,0.0
+20,Email Newsletter,2023-02-05 22:00:00,0.0,organic,False,0.0
+20,Instagram Ad,2023-02-06 08:00:00,4.4,paid,False,0.0
+102,Google Search,2023-02-06 11:00:00,2.05,paid,False,0.0
+51,Facebook Ad,2023-02-15 09:00:00,3.45,paid,False,0.0
+51,Email Newsletter,2023-02-15 20:00:00,0.0,organic,False,0.0
+51,Instagram Ad,2023-02-16 13:00:00,3.89,paid,False,0.0
+5,Instagram Ad,2023-02-19 08:00:00,3.75,paid,False,0.0
+5,Facebook Ad,2023-02-20 17:00:00,4.68,paid,False,0.0
+5,Recommend a Friend,2023-02-22 08:00:00,0.0,organic,False,0.0
+200,Instagram Ad,2023-02-23 01:00:00,4.97,paid,False,0.0
+5,Instagram Ad,2023-02-23 12:00:00,4.33,paid,False,0.0
+1,YouTube Ad,2023-02-24 03:00:00,3.98,paid,False,0.0
+5,Website Visit,2023-02-24 12:00:00,0.0,organic,False,0.0
+200,YouTube Ad,2023-02-24 19:00:00,4.49,paid,False,0.0
+5,Facebook Ad,2023-02-24 20:00:00,2.8,paid,False,0.0
+5,Purchase,2023-02-25 18:00:00,0.0,,True,112.72085240918747
+200,Google Search,2023-02-25 20:00:00,1.98,paid,False,0.0
+1,Email Newsletter,2023-02-25 22:00:00,0.0,organic,False,0.0
+200,Product Review,2023-02-26 00:00:00,0.0,organic,False,0.0
+200,Blog Post View,2023-02-27 15:00:00,0.0,organic,False,0.0
+1,Blog Post View,2023-02-27 18:00:00,0.0,organic,False,0.0
+1,Discount Code Email,2023-02-28 20:00:00,0.0,organic,False,0.0
+1,YouTube Ad,2023-03-01 09:00:00,5.16,paid,False,0.0
+1,Discount Code Email,2023-03-01 12:00:00,0.0,organic,False,0.0
+1,Recommend a Friend,2023-03-01 14:00:00,0.0,organic,False,0.0
+171,YouTube Ad,2023-03-02 09:00:00,3.64,paid,False,0.0
+171,Blog Post View,2023-03-02 23:00:00,0.0,organic,False,0.0
+52,Google Search,2023-03-03 19:00:00,2.11,paid,False,0.0
+171,YouTube Ad,2023-03-04 17:00:00,4.76,paid,False,0.0
+52,Recommend a Friend,2023-03-05 06:00:00,0.0,organic,False,0.0
+52,Website Visit,2023-03-07 01:00:00,0.0,organic,False,0.0
+52,Instagram Ad,2023-03-07 17:00:00,4.94,paid,False,0.0
+52,Recommend a Friend,2023-03-07 20:00:00,0.0,organic,False,0.0
+10,Instagram Ad,2023-03-08 03:00:00,5.11,paid,False,0.0
+52,Website Visit,2023-03-09 10:00:00,0.0,organic,False,0.0
+10,Blog Post View,2023-03-09 12:00:00,0.0,organic,False,0.0
+10,Instagram Ad,2023-03-10 12:00:00,4.7,paid,False,0.0
+52,Website Visit,2023-03-11 04:00:00,0.0,organic,False,0.0
+24,Facebook Ad,2023-03-18 13:00:00,2.07,paid,False,0.0
+24,Email Newsletter,2023-03-20 04:00:00,0.0,organic,False,0.0
+24,Recommend a Friend,2023-03-21 17:00:00,0.0,organic,False,0.0
+24,Discount Code Email,2023-03-22 20:00:00,0.0,organic,False,0.0
+24,Blog Post View,2023-03-24 02:00:00,0.0,organic,False,0.0
+24,Facebook Ad,2023-03-24 13:00:00,4.61,paid,False,0.0
+24,Facebook Ad,2023-03-25 17:00:00,4.88,paid,False,0.0
+24,Purchase,2023-03-26 04:00:00,0.0,,True,154.35278315552918
