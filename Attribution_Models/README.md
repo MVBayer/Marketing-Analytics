@@ -64,8 +64,23 @@ pip install -r requirements.txt
 
 3. Set up environment variables (copy from example):
 ```bash
-cp .env.example .env
-```
+This project uses environment variables for configuration. Follow these steps to set up:
+
+3.1. Copy the example environment file:
+   ```bash
+   cp .env.example .env```
+
+3.2. Edit the .env file and update the paths for your system:
+    PYTHONPATH=.
+    PROJECT_ROOT=/path/to/your/project
+    DATA_DIR=${PROJECT_ROOT}/data
+    RAW_DIR=${DATA_DIR}/raw
+    PROCESSED_DIR=${DATA_DIR}/processed
+
+3.3. Make sure to replace /path/to/your/project with the actual path to the project on your system
+    Windows example: C:\Users\username\Projects\Marketing-Analytics
+    Mac/Linux example: /home/username/projects/Marketing-Analytics
+
 
 ## Usage
 
