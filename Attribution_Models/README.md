@@ -38,7 +38,6 @@ attribution-models/
 │   ├── processed/            # Processed data
 │   ├── sql/                  # SQL queries
 │   └── attribution.db        # SQLite database
-├── z_learning_resources/     # Documentation and references
 ├── requirements.txt          # Project dependencies
 ├── setup.py                  # Package configuration
 └── README.md                 # Project documentation
